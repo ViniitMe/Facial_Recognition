@@ -29,8 +29,7 @@ Steps:
 
 Procedure:
 
-1) Run DataCollection.py for collecting facial data for any new user. It will first show the face that is going to be captured. If the face is not visible clearly press ctrl+c to exit otherwise press enter from the terminal. Then Enter the name.
-If all goes fine the face will be shown in rectangular box
+1) Run DataCollection.py for collecting facial data for any new user.
 
 2) Run recognition.py for real time detection.
 
