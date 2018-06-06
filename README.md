@@ -34,7 +34,8 @@ If all goes fine the face will be shown in rectangular box
 
 2) Run recognition.py for real time detection.
 
-Results:
-
-/home/vinit/Pictures/vin.png
+Result:
+<p align="center">
+  <img src="https://github.com/ViniitMe/Facial_Recognition/blob/master/facial_rec/vin.png"/>
+</p>
 
