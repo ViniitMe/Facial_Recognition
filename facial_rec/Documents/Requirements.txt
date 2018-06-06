@@ -1,0 +1,13 @@
+#Various Libraries needed:
+1) OpenCV
+2) Natsort          (through pip)
+3) dlib
+4) face_recognition (through pip)
+5) os
+
+
+#For installing dlib visit:
+https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
+
+#For installing opencv
+sudo apt-get install python-opencv
