@@ -12,7 +12,7 @@ Steps:
                  -More accurate than Haar and hog but can be very slow
                  -GPU can increase the speed
 
-   We are using HOG for the face detection
+    We are using HOG for the face detection
 
 2)  Detect the key Facial structure from the face ROI
     The pre-trained facial landmark detector is used to find 68 (x,y) coordinates on face.
