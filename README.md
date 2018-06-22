@@ -1,4 +1,4 @@
-# Facial_Recognition
+# Face_Recognition
 Steps:
 
 1)  Detect Face from the Image: We get an array of bounding box of human face by using different models for detecting faces.
